@@ -5,7 +5,7 @@ Welcome to the world of LeetCode's "Easy" difficulty challenges, tailored for be
 ## Features 🌟
 
 - 🧠 **Beginner-Friendly**: These problems are handpicked to be approachable for newcomers to programming and algorithmic thinking.
-
+- 🧠 **Java Focus**: Dive into Java-based solutions for a deeper understanding of the language's fundamentals and coding techniques.
 - 🚀 **Interview Prep**: Start your journey toward acing technical interviews while building a solid foundation in problem-solving.
 
 ## Get Started 🚗
