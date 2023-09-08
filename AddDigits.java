@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class AddDigits {
 	
 	    public int addDigits(int num) {
